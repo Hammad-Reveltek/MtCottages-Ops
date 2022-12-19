@@ -41,3 +41,27 @@ Time is of the Essence!
 ### Message Reply  
 This is _____ with Mt Cottages. We have a few properties that we would like to discuss with you based on your inquiry from Furnished Finder. Is now a good time to call?
 	• Get them in the property as soon as you can.
+
+### Email and Call 
+1. We are part of the HOA, United Home.  There are strict rules regarding guests and usage of the property.
+2. Our neighbors help ensure it is treated well & the rules are followed. So, it is a very safe neighborhood & well taken care of, though you will have a few extra rules than normal to follow if you rent with us.
+​
+3. Some of the rules include:
+	a. No overnight guests
+	b. Trash is to be taken to the curb weekly on Sundays
+	c. No smoking
+	d. No pets
+	e. Cars must be parked in designated spots.
+   f.      no noise pollution at odd hours.
+
+Introduce United Home & Mt Cottages
+a. Let them know we got their information and inquiry from _________
+b.  If it is a nurse, ask which hospital they will be at to make sure you can pick our best available location close to their hospital.
+c. Tell them the availability you found for our cottages.
+d. If they want to continue booking, ask them specifically what dates they are interested in.
+e. Let them know you will send them a booking request via KeyFinder or they can book directly by themselves on mtcottages.com
+f. Confirm they are interested and that they want you to move forward.
+g. If they say they need more time, let them know we will not hold any bookings until a payment is made & that we usually stay booked all year long. (Be nice, but just let them know this)
+h. Thank them for considering Mt Cottages
+i. Hang up or finish email
+j. Add report in our notes & in chat that you called / emailed.
