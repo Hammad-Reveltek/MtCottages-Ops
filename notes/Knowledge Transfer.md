@@ -34,13 +34,15 @@ Using these tools we can make sure our properties are booked.
 	5. And MT cottages for smaller rentals.
 
 ### How we relate eveything together
-United Home - HOASILK Corp - Hospitality CompanySILK Y.A.C.H.T. - Properties that can cater to:
-YogaArtsCafesHomesTech
-SILK Home  - Cute Cottages with Cafes & Yoga Rooms for Events, Weddings, Filming, Retreats, etc.
+. United Home - HOA
+. SILK Corp - Hospitality Company
+SILK Y.A.C.H.T. - Properties that can cater to:
+.Yoga,Arts,Cafes.HomesTech
+.SILK Home  - Cute Cottages with Cafes & Yoga Rooms for Events, Weddings, Filming, Retreats, etc.
 Renting & Events
-Mt Cottages - Short & Long Term Rentals
+. Mt Cottages - Short & Long Term Rentals
 Renting
-Tao Precision - Engineering United Home - HOASILK Corp - Hospitality CompanySILK Y.A.C.H.T. - Properties that can cater to:
+.Tao Precision - Engineering United Home - HOASILK Corp - Hospitality CompanySILK Y.A.C.H.T. - Properties that can cater to:
 YogaArtsCafesHomesTech
 SILK Home  - Cute Cottages with Cafes & Yoga Rooms for Events, Weddings, Filming, Retreats, etc.
 Renting & Events
@@ -48,3 +50,4 @@ Mt Cottages - Short & Long Term Rentals
 Renting
 Tao Precision - Engineering 
 
+ 
