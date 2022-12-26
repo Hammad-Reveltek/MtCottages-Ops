@@ -34,5 +34,22 @@ Fee Per Booking:  The other option that hosts have is the “pay per booking” 
  ### Next Door
  [Main webpage](https://nextdoor.com/news_feed/)
 
+ ---
 
+ ## ByOwner.com
+[Main Webpage](https://www.byowner.com/)
+
+### ByOwner.com is a website that provides a platform for individuals to advertise and sell their properties directly to buyers, without the need for a real estate agent. The website allows users to list their properties for sale, as well as search for properties to buy in a specific location. ByOwner.com offers a range of resources and tools to assist with the sale process, including property valuation tools and assistance with paperwork. It is intended as an alternative to traditional real estate agents, which can be more expensive and time-consuming for both buyers and sellers.
+
+## List your Rentals with ByOwner 
+* World Wide exposure with little fees
+* Advertise your vacancy on the #1 most visited platform for Tenants looking to rent Directly from Owners
+* We connect Renters & Owners – Communicate directly with Tenants, all leads and communications go right to you!
+* Unlimited Leads - Contact the hottest Prospects that best match your listing now.
+* Rental Guarantee – If you don’t rent your property in 3 months. You will get the next 3 months for free. * Callout (not available with MLS option)
+* Zero commissions if a Broker/Agent is not involved.
+* Featured Listings show at the top of our search results.
+* Find your next qualified renter fast.
+* Zero fees for leads. Just list and let Buyers contact you directly.
+* Nationwide marketing to millions of renters.
  
