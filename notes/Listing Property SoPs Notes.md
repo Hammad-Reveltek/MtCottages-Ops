@@ -52,5 +52,7 @@ Fee Per Booking:  The other option that hosts have is the “pay per booking” 
 * Find your next qualified renter fast.
 * Zero fees for leads. Just list and let Buyers contact you directly.
 * Nationwide marketing to millions of renters.
-  
- 
+---
+
+
+

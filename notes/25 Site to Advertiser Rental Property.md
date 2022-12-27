@@ -14,9 +14,9 @@
 * Walk Score
 * Apartment guide
 * My new place
-* People with pets
-* Rent caft
-* Rent hop
+  
+  
+  
 * Zumper
 * Finish finder
 * Booking.com
